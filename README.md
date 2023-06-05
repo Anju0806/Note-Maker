@@ -26,10 +26,10 @@ To install the Note Taker application, please follow these steps:
 
 ## Usage
 
-To start using the Note Taker application, please follow these steps:
-Navigate to the project's root directory and Open the integrated terminal with server.
-Run the command node server.js to start the application.
-Open a web browser and go to http://localhost:3000 to access the application.
+1. To start using the Note Taker application, please follow these steps:
+2. Navigate to the project's root directory and Open the integrated terminal with server.
+3. Run the command node server.js to start the application.
+4. Open a web browser and go to http://localhost:3000 to access the application.
 
 ## License
 
