@@ -47,8 +47,9 @@ Contributions are welcome! If you would like to contribute to this project, plea
 5. Submit a pull request explaining your changes.
 
 ## Screenshots
-
-
+![s1](https://github.com/Anju0806/Note-Maker/assets/126565826/f7f14c07-4ce7-4800-b0e8-6e1a5e51e936)
+![s2](https://github.com/Anju0806/Note-Maker/assets/126565826/79a8c01f-c4ad-4214-b92c-a0679af73f7f)
+![s3](https://github.com/Anju0806/Note-Maker/assets/126565826/ea12dd97-5b69-429c-9c65-1d5371fe00ff)
 
 ## Questions
 If you have any questions about the repo, please open an issue or contact me at anjualfino@gmail.com. 
