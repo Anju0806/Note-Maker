@@ -14,3 +14,10 @@ app.use(express.static('public'));
 app.listen(PORT, () =>
   console.log(`App listening at http://localhost:${PORT} 🚀`)
 );
+app.use((req, res) => {
+  res.status(404).send('Not Found');
+});
+// Start the server
+app.listen(3000, () => {
+  console.log('Server started on port 3000');
+});
