@@ -11,6 +11,7 @@ The Note Taker application is a web-based note-taking tool that allows users to 
  - Installation
  - Usage
  - License
+ - URL of Deployed Application
  - Contributing
  - Screenshots
  - Questions
@@ -34,6 +35,8 @@ To install the Note Taker application, please follow these steps:
 ## License
 
 This project is licensed under the MIT .
+
+## URL of Deployed Application
 
 ## Contributing
 
