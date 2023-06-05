@@ -3,7 +3,7 @@
 
 ## Description
 
-The Note Taker application is a web-based note-taking tool that allows users to write and save notes. The application utilizes an Express.js back end to handle note data storage and retrieval, and it stores the notes in a JSON file. 
+The Note Taker application is a web-based note-taking tool that allows users to write, save and delete notes. The application utilizes an Express.js back end to handle note data storage and retrieval, and it stores the notes in a JSON file. 
 
 
 ## Table of Contents
@@ -27,9 +27,8 @@ To install the Note Taker application, please follow these steps:
 ## Usage
 
 To start using the Note Taker application, please follow these steps:
-
-Open a terminal and navigate to the project's root directory.
-Run the command npm start to start the application.
+Navigate to the project's root directory and Open the integrated terminal with server.
+Run the command node server.js to start the application.
 Open a web browser and go to http://localhost:3000 to access the application.
 
 ## License
