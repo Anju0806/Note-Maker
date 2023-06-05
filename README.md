@@ -8,12 +8,12 @@ The Note Taker application is a web-based note-taking tool that allows users to 
 
 ## Table of Contents
 
-Installation
-Usage
-License
-Contributing
-Screenshots
-Questions
+ - Installation
+ - Usage
+ - License
+ - Contributing
+ - Screenshots
+ - Questions
 
 ## Installation
 
