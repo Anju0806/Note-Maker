@@ -32,7 +32,7 @@ router.post('/notes', (req, res) => {
     });
 });
 
-router.delete('/api/notes/:id', (req, res) => {
+router.delete('/notes/:id', (req, res) => {
     const id = req.params.id;
 
     fs.readFile('./db/db.json', 'utf8', (err, data) => {
