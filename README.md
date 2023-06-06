@@ -37,6 +37,7 @@ To install the Note Taker application, please follow these steps:
 This project is licensed under the MIT .
 
 ## URL of Deployed Application
+https://note-maker.herokuapp.com/
 
 ## Contributing
 
